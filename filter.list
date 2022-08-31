@@ -15,3 +15,4 @@ https://iplists.firehol.org/files/urlvir.ipset
 https://iplists.firehol.org/files/blocklist_de.ipset
 https://iplists.firehol.org/files/uscert_hidden_cobra.ipset
 https://iplists.firehol.org/files/darklist_de.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/blocklist_de_bruteforce.ipset
